@@ -1,0 +1,12 @@
+{
+  "SelectedPreset": "4. I Like Pain",
+  "DefaultPreset": "3. Default",
+  "AdvancedBotConfigs": false,
+  "GlobalDebugMode": false,
+  "DrawDebugGizmos": false,
+  "ConfigScaling": 1.37,
+  "CollectBotLayerBrainInfo": false,
+  "DebugDrawProjectionPoints": false,
+  "DebugEnablePathTester": false,
+  "DebugDrawSafePaths": false
+}
